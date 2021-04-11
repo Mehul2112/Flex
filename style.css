@@ -1,0 +1,46 @@
+h1{ color:rgb(104, 104, 231);
+    font-family: monospace;} 
+*{
+    border: dashed;
+    background-color:crimson;
+    text-align: center;
+    font-family:fantasy;
+    font-size: larger;}
+
+.MainContent{
+    color: black;
+    border: solid;
+    background-color:cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.Sub{
+    color: blue;
+    border: dotted;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.Tap-Music{
+    color: red;
+    border: dashed;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Tick{
+    color: blue;
+    border: dotted;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Tick-Tack-Toe{
+    color: green;
+    border: solid;
+    display: flex;
+    justify-content: space-between;
+}
